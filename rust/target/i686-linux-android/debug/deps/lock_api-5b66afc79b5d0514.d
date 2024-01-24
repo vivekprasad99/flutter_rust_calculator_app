@@ -1,0 +1,10 @@
+/Users/vivekfraazo/development/flutter_rust_calculator_app/rust/target/i686-linux-android/debug/deps/liblock_api-5b66afc79b5d0514.rmeta: /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/lib.rs /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/mutex.rs /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/remutex.rs /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/rwlock.rs
+
+/Users/vivekfraazo/development/flutter_rust_calculator_app/rust/target/i686-linux-android/debug/deps/liblock_api-5b66afc79b5d0514.rlib: /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/lib.rs /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/mutex.rs /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/remutex.rs /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/rwlock.rs
+
+/Users/vivekfraazo/development/flutter_rust_calculator_app/rust/target/i686-linux-android/debug/deps/lock_api-5b66afc79b5d0514.d: /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/lib.rs /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/mutex.rs /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/remutex.rs /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/rwlock.rs
+
+/Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/lib.rs:
+/Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/mutex.rs:
+/Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/remutex.rs:
+/Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/rwlock.rs:

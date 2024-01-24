@@ -1,0 +1,10 @@
+/Users/vivekfraazo/development/flutter_rust_calculator_app/rust/target/armv7-linux-androideabi/debug/deps/liblock_api-a7bf00e8603df955.rmeta: /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/lib.rs /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/mutex.rs /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/remutex.rs /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/rwlock.rs
+
+/Users/vivekfraazo/development/flutter_rust_calculator_app/rust/target/armv7-linux-androideabi/debug/deps/liblock_api-a7bf00e8603df955.rlib: /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/lib.rs /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/mutex.rs /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/remutex.rs /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/rwlock.rs
+
+/Users/vivekfraazo/development/flutter_rust_calculator_app/rust/target/armv7-linux-androideabi/debug/deps/lock_api-a7bf00e8603df955.d: /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/lib.rs /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/mutex.rs /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/remutex.rs /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/rwlock.rs
+
+/Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/lib.rs:
+/Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/mutex.rs:
+/Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/remutex.rs:
+/Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.11/src/rwlock.rs:

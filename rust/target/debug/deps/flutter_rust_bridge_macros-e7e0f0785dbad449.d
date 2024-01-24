@@ -1,0 +1,5 @@
+/Users/vivekfraazo/development/flutter_rust_calculator_app/rust/target/debug/deps/libflutter_rust_bridge_macros-e7e0f0785dbad449.dylib: /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/flutter_rust_bridge_macros-1.80.1/src/lib.rs
+
+/Users/vivekfraazo/development/flutter_rust_calculator_app/rust/target/debug/deps/flutter_rust_bridge_macros-e7e0f0785dbad449.d: /Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/flutter_rust_bridge_macros-1.80.1/src/lib.rs
+
+/Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/flutter_rust_bridge_macros-1.80.1/src/lib.rs:

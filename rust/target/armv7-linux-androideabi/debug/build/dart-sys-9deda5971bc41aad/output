@@ -1,0 +1,28 @@
+TARGET = Some("armv7-linux-androideabi")
+OPT_LEVEL = Some("0")
+HOST = Some("aarch64-apple-darwin")
+cargo:rerun-if-env-changed=CC_armv7-linux-androideabi
+CC_armv7-linux-androideabi = Some("/Users/vivekfraazo/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang")
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+cargo:rerun-if-env-changed=CFLAGS_armv7-linux-androideabi
+CFLAGS_armv7-linux-androideabi = Some("--target=armv7a-linux-androideabi21")
+running: "/Users/vivekfraazo/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang" "-O0" "-DANDROID" "-ffunction-sections" "-fdata-sections" "-fPIC" "-gdwarf-2" "-fno-omit-frame-pointer" "--target=armv7-linux-androideabi" "--target=armv7a-linux-androideabi21" "-I" "/Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dart-sys-4.0.2/dart-sdk/include" "-o" "/Users/vivekfraazo/development/flutter_rust_calculator_app/rust/target/armv7-linux-androideabi/debug/build/dart-sys-9deda5971bc41aad/out/11ef04e32b21c6d8-dart_api_dl.o" "-c" "/Users/vivekfraazo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dart-sys-4.0.2/dart-sdk/include/dart_api_dl.c"
+exit status: 0
+cargo:rerun-if-env-changed=AR_armv7-linux-androideabi
+AR_armv7-linux-androideabi = Some("/Users/vivekfraazo/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ar")
+cargo:rerun-if-env-changed=ARFLAGS_armv7-linux-androideabi
+ARFLAGS_armv7-linux-androideabi = None
+cargo:rerun-if-env-changed=ARFLAGS_armv7_linux_androideabi
+ARFLAGS_armv7_linux_androideabi = None
+cargo:rerun-if-env-changed=TARGET_ARFLAGS
+TARGET_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+running: ZERO_AR_DATE="1" "/Users/vivekfraazo/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ar" "cq" "/Users/vivekfraazo/development/flutter_rust_calculator_app/rust/target/armv7-linux-androideabi/debug/build/dart-sys-9deda5971bc41aad/out/libdart_api_dl.a" "/Users/vivekfraazo/development/flutter_rust_calculator_app/rust/target/armv7-linux-androideabi/debug/build/dart-sys-9deda5971bc41aad/out/11ef04e32b21c6d8-dart_api_dl.o"
+exit status: 0
+running: "/Users/vivekfraazo/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ar" "s" "/Users/vivekfraazo/development/flutter_rust_calculator_app/rust/target/armv7-linux-androideabi/debug/build/dart-sys-9deda5971bc41aad/out/libdart_api_dl.a"
+exit status: 0
+cargo:rustc-link-lib=static=dart_api_dl
+cargo:rustc-link-search=native=/Users/vivekfraazo/development/flutter_rust_calculator_app/rust/target/armv7-linux-androideabi/debug/build/dart-sys-9deda5971bc41aad/out
